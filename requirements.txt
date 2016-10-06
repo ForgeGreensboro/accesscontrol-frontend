@@ -1,0 +1,9 @@
+Django
+Djangorestframework
+django-reversion
+django-debug-toolbar
+psycopg2
+coverage==3.6
+django-fluent-dashboard
+django-compressor
+django-bower
